@@ -663,3 +663,357 @@ Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpa
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1521821067201	geckodriver	INFO	geckodriver 0.18.0
+1521821067212	geckodriver	INFO	Listening on 127.0.0.1:24538
+1521821069293	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821070210	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821072349	Marionette	INFO	Listening on port 24545
+1521821072417	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521821077770	geckodriver	INFO	geckodriver 0.18.0
+1521821077782	geckodriver	INFO	Listening on 127.0.0.1:24605
+1521821079941	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821081558	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821087523	Marionette	INFO	Listening on port 24633
+1521821088064	Marionette	WARN	TLS cer1521821089092	Marionette	INFO	Listening on port 24Unabl1521821089940	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0016
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0005,name=PLayerTransaction::Msg_NewCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0001,name=PLayerTransaction::Msg_InitReadLocks) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0016,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTran[3316, Chrome_ChildThread] WARNING: failed to create pipe: 2: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[21968, Chrome_ChildThread] WARNING: failed to create pipe: 2: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[21968, Chrome_ChildThread] WARNING: Unable to create pipe named "9404.27.272337351\1357992256" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+ecv
+
+rTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x280016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[16372, Chrome_ChildThread] WARNING: failed to create pipe: 2: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[16372, Chrome_ChildThread] WARNING: Unable to create pipe named "20864.27.1751974647\1841877965" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=<unknown IPC msg name>) Closed channel: cannot send/recv
+
+1521821883571	geckodriver	INFO	geckodriver 0.18.0
+1521821883581	geckodriver	INFO	Listening on 127.0.0.1:25984
+1521821885674	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821886336	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821887724	Marionette	INFO	Listening on port 25990
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821888792	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1521821894626	geckodriver	INFO	geckodriver 0.18.0
+1521821894638	geckodriver	INFO	Listening on 127.0.0.1:26052
+1521821896960	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821898843	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521821905547	Marionette	INFO	Listening on port 26086
+1521821905903	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521822422038	geckodriver	INFO	geckodriver 0.18.0
+1521822422049	geckodriver	INFO	Listening on 127.0.0.1:27189
+1521822434851	geckodriver	INFO	geckodriver 0.18.0
+1521822434860	geckodriver	INFO	Listening on 127.0.0.1:27207
+1521822436935	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521822437749	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521822439285	Marionette	INFO	Listening on port 27216
+1521822440049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521822445840	geckodriver	INFO	geckodriver 0.18.0
+1521822445854	geckodriver	INFO	Listening on 127.0.0.1:27292
+1521822447949	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521822454287	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521822461789	Marionette	INFO	Listening on port 27322
+1521822462365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521824653215	geckodriver	INFO	geckodriver 0.18.0
+1521824653224	geckodriver	INFO	Listening on 127.0.0.1:29600
+1521824655324	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824655931	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824657556	Marionette	INFO	Listening on port 29607
+1521824658444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 14504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14504, Chrome_ChildThread] WARNIN[Child 15884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15884, Chrome_ChildThread] WARNIN[Parent 19856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521824762148	geckodriver	INFO	geckodriver 0.18.0
+1521824762159	geckodriver	INFO	Listening on 127.0.0.1:29875
+1521824764243	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824764840	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824766319	Marionette	INFO	Listening on port 29881
+1521824767363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 21736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4508, Chrome_ChildThr[Child 4764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521824827192	geckodriver	INFO	geckodriver 0.18.0
+1521824827202	geckodriver	INFO	Listening on 127.0.0.1:30078
+1521824829302	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824829923	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824831340	Marionette	INFO	Listening on port 30089
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824832424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 18748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18748, Chrome_ChildThread] W[Child 15988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15988, Chrome_ChildThr[Child 19168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19168, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521824892704	geckodriver	INFO	geckodriver 0.18.0
+1521824892715	geckodriver	INFO	Listening on 127.0.0.1:30277
+1521824894810	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824895428	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824896831	Marionette	INFO	Listening on port 30285
+1521824897932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 17876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17876, Chrome_ChildThread][Parent 15900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521824956771	geckodriver	INFO	geckodriver 0.18.0
+1521824956782	geckodriver	INFO	Listening on 127.0.0.1:30604
+1521824958888	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824959559	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521824961026	Marionette	INFO	Listening on port 30612
+1521824962005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 9244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2096, Chrome_ChildThread] WARNING: pipe error: *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17428, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521825452607	geckodriver	INFO	geckodriver 0.18.0
+1521825452618	geckodriver	INFO	Listening on 127.0.0.1:31078
+1521825454706	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521825455322	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521825456689	Marionette	INFO	Listening on port 31086
+1521825456717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521825487950	geckodriver	INFO	geckodriver 0.18.0
+1521825487960	geckodriver	INFO	Listening on 127.0.0.1:31151
+1521825490048	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521825490622	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521825491952	Marionette	INFO	Listening on port 31159
+1521825492065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521825496924	geckodriver	INFO	geckodriver 0.18.0
+1521825496935	geckodriver	INFO	Listening on 127.0.0.1:31218
+1521825499073	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521825500182	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1521825506516	Marionette	INFO	Listening on port 31245
+1521825506702	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15536, Chrome_ChildThread][Child 15268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15268, Chrome_ChildThread] WARNING: pipe error: 109: [GPU 18240, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+action::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7A0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0007,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E0006,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4E001F,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x280016,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1523359983957	geckodriver	INFO	geckodriver 0.18.0
+1523359983970	geckodriver	INFO	Listening on 127.0.0.1:59273
+1523359986129	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1523359987915	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1523359992065	Marionette	INFO	Listening on port 59282
+1523359992366	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523360175655	geckodriver	INFO	geckodriver 0.18.0
+1523360175668	geckodriver	INFO	Listening on 127.0.0.1:59626
+1523360177748	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1523360178612	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\asus\AppData\Local\openvr\openvrpaths.vrpath
+1523360180418	Marionette	INFO	Listening on port 59634
+1523360180877	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

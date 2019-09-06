@@ -22,18 +22,24 @@ class myThread(threading.Thread):
         stockCode = self.stockCode
         con = self.initDB('user'+str(self.num)+'.db')
         cur = con.cursor()
+        f = open('log'+str(self.num)+'.txt','w')
         for i in range(left, right):
             coleTime = time.ctime()
             suf = '?page=' + str(i)
             url = pre + suf
+            f.write(str(i)+'\n')
+            browser.refresh()
+            time.sleep(2)
             try:
                 browser.get(url)
                 soup = BeautifulSoup(browser.page_source, 'lxml')
                 self.insertDB(self.getUserId(soup), cur, stockCode, coleTime)
+                con.commit()
             except:
                 continue
-        con.commit()
+        f.close()
         browser.quit()
+
 
     def initDB(self, name):
         con = sqlite3.connect(name)
